@@ -1,0 +1,38 @@
+
+        body{
+            background:url(janasena.jpg);
+            background-size:cover; 
+            background-repeat: no-repeat;
+            background-attachment: fixed; 
+            font-family: Arial, sans-serif;
+        
+           
+        }
+        .Love h1{
+        
+        
+            font-style: normal;
+            font-family:"Lucida Console", "Courier New", monospace;
+             text-align: center;
+             color:red;
+              font-size: 25px;
+              letter-spacing: 5px;
+             animation-delay: 10ms;
+             word-spacing:10px;
+            }
+            .couple1 h2{
+                    text-align: center; 
+                    letter-spacing: 1px;
+        
+                    margin-top: 180px;
+                }
+            .feel{
+                    display:flex;
+                    justify-content: space-around;
+        
+        
+        
+            }
+            
+            
+           
